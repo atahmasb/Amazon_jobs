@@ -3,9 +3,9 @@ Scraping Amazon jobs for software development role
 
 ## Table of Contents
 
--Introduction
--Instructions
--Data
+- Introduction
+- Instructions
+- Data
 
 ## Introduction
 This dataset is collected using Selenium and BeautifulSoup by scraping all of the jobs for Amazon job site.
