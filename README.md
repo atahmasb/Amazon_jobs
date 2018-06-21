@@ -22,11 +22,11 @@ BASIC QUALIFICATIONS: Minimum Qualifications for the job
 PREFERRED QUALIFICATIONS: Preferred Qualifications for the job
 
 ## Instructions
-Clone the jupytor notebook. Runing the notebook will fetch the most updated jobs list from Amazon job portal.
+Clone the jupytor notebook. Running the notebook will fetch the most updated jobs from Amazon job portal.
 
 
 ## Data
 
-This dataset is collected using Selenium and BeautifulSoup packages. This product uses the Amazon job site.
+This dataset is collected using Selenium and BeautifulSoup packages. This product uses the Amazon job site. The dataset can be found on the [Kaggle website]( https://www.kaggle.com/atahmasb/amazon-jobs-analysis).
 
 
