@@ -2,6 +2,7 @@
 Scraping Amazon jobs for software development role
 
 ## Table of Contents
+
 -Introduction
 -Instructions
 -Data
